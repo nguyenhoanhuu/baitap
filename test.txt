@@ -1,0 +1,13 @@
+Circle,Circle1,radius=10.0
+Square,Square2,edge=5.0
+ Square , Square3 , edge=8.0
+invalid row
+Circle, Circle2,
+Circle,Circle3, edge=2.0
+Square,Square3,edge==6.0
+Circle, Circle4, radius=
+Square,Square2,edge=1
+Square,Square4,radius=3.0
+Square,edge=3.0
+Square,Square2,edge=-3.0
+Square,Square2,radius=vn
